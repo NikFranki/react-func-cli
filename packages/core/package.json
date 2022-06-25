@@ -1,6 +1,6 @@
 {
     "name": "@react-func-cli/core",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "description": "> TODO: description",
     "author": "franki <8024ldbryant@gmail.com>",
     "homepage": "",
@@ -20,7 +20,7 @@
         "test": "echo \"testing form core\""
     },
     "dependencies": {
-        "@react-func-cli/utils": "^1.0.1"
+        "@react-func-cli/utils": "^1.0.0"
     },
     "gitHead": "",
     "publishConfig": {
