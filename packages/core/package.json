@@ -1,0 +1,29 @@
+{
+    "name": "@react-func-cli/core",
+    "version": "1.0.0",
+    "description": "> TODO: description",
+    "author": "franki <8024ldbryant@gmail.com>",
+    "homepage": "",
+    "license": "ISC",
+    "main": "lib/core.js",
+    "bin": {
+        "react-func-cli": "bin/index.js"
+    },
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "files": [
+        "lib"
+    ],
+    "scripts": {
+        "test": "echo \"testing form core\""
+    },
+    "dependencies": {
+        "@react-func-cli/utils": "^1.0.0"
+    },
+    "gitHead": "",
+    "publishConfig": {
+        "registry": "https://github.com/NikFranki/react-func-cli"
+    }
+}
