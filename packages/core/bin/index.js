@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log('hello react-fun-cli');
+console.log('hello react-func-cli');

@@ -24,6 +24,6 @@
     },
     "gitHead": "",
     "publishConfig": {
-        "registry": "https://github.com/NikFranki/react-func-cli"
+        "access": "public"
     }
 }
